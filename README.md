@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanskar
-- 👀 I’m interested in Competative Programming, Web development and Machine learning
-- 🌱 I’m currently learning Neural Networks
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning how use my brain
 - 📫 sanskarsinghty1234@gmail.com
 
 <!---
