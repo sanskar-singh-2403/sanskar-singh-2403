@@ -74,23 +74,6 @@
 
 ---
 
-### 🐍 Watch My Commits Get Eaten
-
-<!-- This animation is generated from your real contribution graph by the snake.yml GitHub Action -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanskar-singh-2403/sanskar-singh-2403/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanskar-singh-2403&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</p>
-
----
-
 <p align="center">
   <i>“Currently learning how to use my brain.”</i>
 </p>
